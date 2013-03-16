@@ -2,6 +2,6 @@
 
 #usage
 
-python search_string.py 路径 字符
+	python search_string.py 路径 字符
 
-python search_string.py /tmp aaaaa
+	python search_string.py /tmp aaaaa
